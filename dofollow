@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Premium Cannabis-Infused Chocolate | Ahh Moments</title>
+  <meta name="description" content="Discover Ahh Moments premium cannabis-infused chocolates. Handcrafted THC chocolate edibles made for relaxing, memorable moments. Explore the chocolate collection.">
+  <link rel="canonical" href="https://mona7891.github.io/ahh-moments-website/">
+  <meta property="og:title" content="Premium Cannabis-Infused Chocolate | Ahh Moments">
+  <meta property="og:description" content="Handcrafted cannabis-infused chocolate edibles from Ahh Moments.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mona7891.github.io/ahh-moments-website/">
+  <style>
+    body{font-family:Georgia,serif;max-width:760px;margin:40px auto;padding:0 20px;line-height:1.7;color:#2b1d14;background:#fffaf5}
+    h1,h2{color:#4a2c1a}
+    a{color:#8a4b1f}
+    footer{margin-top:40px;font-size:14px;color:#6b5a4e}
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ahh Moments",
+    "url": "https://ahhmoments.com/",
+    "sameAs": ["https://github.com/mona7891/ahh-moments-website"]
+  }
+  </script>
+</head>
+<body>
+
+
+  <header>
+    <h1>Ahh Moments: Premium Cannabis-Infused Chocolate</h1>
+  </header>
+
+
+  <main>
+    <p>
+      Ahh Moments creates handcrafted <a href="https://ahhmoments.com/chocolate/">cannabis-infused chocolate</a>
+      for adults who want a smooth, delicious way to slow down and enjoy the moment.
+      Every bar is made with quality ingredients and a focus on flavor, consistency and a
+      relaxed experience.
+    </p>
+
+
+    <h2>Why Choose Our THC Chocolate Edibles?</h2>
+    <p>
+      Cannabis edibles are a popular alternative to smoking, and chocolate is one of the
+      most loved ways to enjoy them. Our <a href="https://ahhmoments.com/chocolate/">premium THC chocolate edibles</a>
+      are designed for people who care about taste, quality and a wellness-minded lifestyle.
+    </p>
+    <ul>
+      <li>Rich, smooth chocolate with a premium taste</li>
+      <li>Carefully crafted for consistent, reliable quality</li>
+      <li>Made for relaxing evenings, social time and special occasions</li>
+      <li>Clear product information so you know what you are enjoying</li>
+    </ul>
+
+
+    <h2>Explore the Ahh Moments Chocolate Collection</h2>
+    <p>
+      Ready to find your favorite? Browse the full
+      <a href="https://ahhmoments.com/chocolate/">Ahh Moments chocolate collection</a>
+      to see every flavor and product we offer. You can also visit the
+      <a href="https://ahhmoments.com/">official Ahh Moments website</a>
+      to learn more about our brand and story.
+    </p>
+
+
+    <h2>Enjoy Responsibly</h2>
+    <p>
+      Cannabis products are for adults of legal age only. Start with a small amount,
+      wait before having more, and keep all edibles away from children and pets.
+      Check the cannabis laws in your area before buying or consuming.
+    </p>
+  </main>
+
+
+  <footer>
+    <p>&copy; Ahh Moments. Official site:
+      <a href="https://ahhmoments.com/">ahhmoments.com</a>
+    </p>
+  </footer>
+
+
+</body>
+</html>
